@@ -21,7 +21,7 @@ body{
 main{
     display: flex;
     width: 39rem;
-    height: 60%;     
+    max-height: 40rem;     
 }
 
 .image1{
